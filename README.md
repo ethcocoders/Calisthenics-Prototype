@@ -2,7 +2,7 @@
 
 This repository contains the front-end prototype for a comprehensive **Calisthenics Dashboard** application. This project is designed to be a central hub for calisthenics enthusiasts, providing tools for tracking progress, scheduling workouts, setting goals, and finding motivation.
 
-## Demo: ethcocoders.github.io/Calisthenics-Prototype/index.html
+## Demo:##  ethcocoders.github.io/Calisthenics-Prototype/index.html
 
 ## ✨ Features
 
